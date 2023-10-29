@@ -1,4 +1,4 @@
-Hi there👋 I am James Sha, going to graduate from HKUST's Big Data Tech master in the end of this year, you can also call me Ruxi Liang as well.(if you want to know the origin of this nick name, [click here](origin-of-ruxiliang.md) for more details.) 
+Hi there👋 I am Ruxi Liang, and I am going to graduate from HKUST's Big Data Tech master in the end of this year.(if you want to know the origin of Ruxi Liang, [click here](origin-of-ruxiliang.md) for more details.) 
 
 💻In my opinion, coding is a special of art. I am very interested in the beauty of programming languages and the power of strong computer systems.
 
