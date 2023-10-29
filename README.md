@@ -1,10 +1,8 @@
-Hi there👋 I am James Sha, a senior student in Wuhan University, you can also call me Ruxi Liang as well.(if you want to know the origin of this nick name, [click here](origin-of-ruxiliang.md) for more details.) 
+Hi there👋 I am James Sha, going to graduate from HKUST's Big Data Tech master in the end of this year, you can also call me Ruxi Liang as well.(if you want to know the origin of this nick name, [click here](origin-of-ruxiliang.md) for more details.) 
 
-💕In my opinion, coding is a special of art. I am very interested in the beauty of programming languages , especially the type systems. I am foud of systems and architectures too.
+💻In my opinion, coding is a special of art. I am very interested in the beauty of programming languages and the power of strong computer systems.
 
-👨‍💻Currently I am doing the intership in ![PLCT lab](https://github.com/plctlab), porting the Rust toolchain to RISC-V platform.
-
-🐱‍💻At the same time , I am doing the research intern in whu pl research group and try to optimize tvm.
+🧐Though by so far I do not have make a few progress in the field of machine learning systems, I had some experience in [reducing the TVM's graph executor's runtime memory usage](https://github.com/ruxiliang/TVMDynMem/commits/dynamic-management).
 
 <!---
 ruxiliang/ruxiliang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
